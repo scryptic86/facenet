@@ -1,3 +1,5 @@
+# This is a Fork of the original project by  David Sandberg. Please navigate to https://github.com/davidsandberg/facenet if you wish to contribute to the original repository.
+
 # Face Recognition using Tensorflow [![Build Status][travis-image]][travis]
 
 [travis-image]: http://travis-ci.org/davidsandberg/facenet.svg?branch=master
